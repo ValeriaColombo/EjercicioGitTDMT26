@@ -1,5 +1,6 @@
 Escribir tu nombre abajo de la palabra "Alumnos".
 
+TDMT 2A2C 2026
 Profe: Vale Colombo
 
 TDMT 2A2C 2026
@@ -7,5 +8,7 @@ Alumnos:
 
 Matias Pulido
 Daniel Mariano Fimiani
+Maximo Gianetti
+
 
 -- Fin del doc.
